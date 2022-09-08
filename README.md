@@ -1,2 +1,1 @@
-My first readme
-update chages to main branch README.md file
+This is the readme file for alx second project on git, github and code versioning.
